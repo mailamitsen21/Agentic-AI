@@ -1,0 +1,6 @@
+azure-identity
+azure-ai-projects
+# Optional helpers (only if you need interactive broker auth):
+# azure-identity-broker
+flask==2.3.2
+gunicorn==20.1.0
